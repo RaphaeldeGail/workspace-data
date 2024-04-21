@@ -1,5 +1,7 @@
 <!-- BEGIN_TF_DOCS -->
+# workspace-data
 
+This terraform module fetch information about a workspace in Google Cloud.
 
 ## Requirements
 

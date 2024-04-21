@@ -1,3 +1,10 @@
+/**
+ * # workspace-data
+ * 
+ * This terraform module fetch information about a workspace in Google Cloud.
+ *
+ */
+
 terraform {
   required_providers {
     google = {
